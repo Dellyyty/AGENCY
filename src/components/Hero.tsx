@@ -12,7 +12,6 @@ export function Hero() {
         loop
         muted
         playsInline
-        poster="/images/hero_bg.jpeg"
         className="absolute left-0 w-full h-auto object-contain z-0"
         style={{ top: "20%" }}
       >
